@@ -1,0 +1,16 @@
+{
+  "name": "hapi-real-ip",
+  "version": "0.0.1",
+  "description": "Get the real IP of the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "real",
+    "ip"
+  ],
+  "author": "Maciej Krüger <mkg20001@gmail.com>",
+  "license": "MPL-2.0"
+}
