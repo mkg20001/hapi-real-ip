@@ -4,7 +4,7 @@ Get the real IP of the user
 
 # Usage
 
-```
+```js
 await server.register(require('hapi-real-ip'))
 
 server.route({
@@ -14,3 +14,4 @@ server.route({
     return request.realIp()
   }
 })
+```
